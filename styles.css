@@ -1,0 +1,36 @@
+body {
+    background-color: #FAEBD7;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+input {
+    font-size: 20px;
+    padding: 0 10px;
+}
+
+#addBtn {
+    background-color: #00FF40;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+#clear {
+    background-color: #00FF40;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+p{
+    margin: 10px;
+    font-size: 20px;
+    padding: 0 20px;
+    height: 15%;
+    width: 25%;
+    position: relative;
+    left: 200px;
+}
